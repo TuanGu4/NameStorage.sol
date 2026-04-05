@@ -9,3 +9,4 @@ contract NameStorage {
         name = _name;
     }
 }
+Refactor contract code
