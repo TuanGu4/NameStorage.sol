@@ -10,3 +10,4 @@ contract NameStorage {
     }
 }
 Refactor contract code
+Remove debug code
