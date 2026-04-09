@@ -13,3 +13,4 @@ Refactor contract code
 Remove debug code
 Add comments for clarity
 Adjust constructor logic
+Improve security checks
