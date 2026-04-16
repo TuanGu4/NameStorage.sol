@@ -14,3 +14,4 @@ Remove debug code
 Add comments for clarity
 Adjust constructor logic
 Improve security checks
+Optimize storage usage
