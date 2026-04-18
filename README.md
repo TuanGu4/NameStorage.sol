@@ -15,3 +15,4 @@ Add comments for clarity
 Adjust constructor logic
 Improve security checks
 Optimize storage usage
+Add basic tests
